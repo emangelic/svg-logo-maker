@@ -50,13 +50,13 @@ Customizable color: Input any hex color code for the shape and text.
 Optional text: Add custom text to your logo and define its color.
 Simple SVG output: Easily use your generated SVG logos in other projects.
 
-###Credits
+### Credits
 Inquirer.js: For building the command-line prompts.
 Node.js: Used for building the CLI and generating the SVG file.
 Built with Jest.
 Javascript
 
-###License
+### License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ### Contributing
